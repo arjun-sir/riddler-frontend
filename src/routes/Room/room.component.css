@@ -1,0 +1,12 @@
+.images {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 0px;
+}
+
+.room-overlay {
+	position: relative;
+	right: 480px;
+	bottom: 120px;
+}

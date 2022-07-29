@@ -1,9 +1,11 @@
-function Play() {
+import React from "react";
+
+function Riddle() {
 	return (
-		<div className="home">
+		<div className="riddle">
 			<h1>Riddle</h1>
 		</div>
 	);
 }
 
-export default Play;
+export default Riddle;

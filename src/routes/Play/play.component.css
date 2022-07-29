@@ -1,0 +1,11 @@
+.doors {
+	margin-top: 100px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 150px;
+}
+
+.door-1,
+.door-3 {
+	justify-self: center;
+}
